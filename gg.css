@@ -1,0 +1,71 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.h1 {
+  color: hsl(0, 0%, 59%);
+}
+span {
+  color: black;
+}
+p {
+  font-size: 20px;
+  margin-top: 5px;
+}
+.i1 {
+  width: 450px;
+  border-radius: 30px;
+  height: 40px;
+  border: hsl(223, 87%, 63%) 1px solid;
+}
+button {
+  width: 200px;
+  border-radius: 10px;
+  height: 30px;
+  margin-top: 10px;
+  background-color: hsl(223, 87%, 63%);
+  border: 0;
+  color: white;
+}
+.img2 {
+  width: 800px;
+  margin-top: 20px;
+}
+.b1 {
+  height: 40px;
+  font-size: medium;
+  font-weight: 400;
+  border-radius: 20px;
+}
+::placeholder {
+  padding-left: 20px;
+}
+.facebook-icon {
+  color: hsl(223, 87%, 63%);
+
+  border: hsl(223, 100%, 88%) 1px solid;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+.twiter {
+  color: hsl(223, 87%, 63%);
+  margin: 10px;
+  border: hsl(223, 100%, 88%) 1px solid;
+  border-radius: 100%;
+  padding: 10px;
+}
+.instagram {
+  color: hsl(223, 87%, 63%);
+
+  border: hsl(223, 100%, 88%) 1px solid;
+  border-radius: 100%;
+  padding: 10px;
+}
+.p7 {
+  color: hsl(0, 0%, 59%);
+  margin-top: 15px;
+}
